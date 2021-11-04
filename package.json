@@ -1,0 +1,23 @@
+{
+  "name": "4-nov",
+  "version": "1.0.0",
+  "description": "in class mongoose actv",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mysia14/Mongoose-activity.git"
+  },
+  "author": "Mysia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mysia14/Mongoose-activity/issues"
+  },
+  "homepage": "https://github.com/Mysia14/Mongoose-activity#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
